@@ -10,7 +10,7 @@ Z początku nasza współpraca wyglądała następująco:
 Ja pisałem kod, powered wymagał. 
 Gdy wkońcu Powered zaczął coś robić i tak praktycznie wszystko co pisał musiało iść do poprawy, nie będę się tu rozpisywał na temat kodu który wtedy pisał bo miał jednak przerwe od robienia botów ale cały czas narzekał na mnie, na to że nic nie robie pomimo że 80% kodu była moja, na mój długi czas odpowiedzi. Będąc na wakacjach poza hotelem nie miałem czasu na pomoc w pisaniu bota. Prosiłem powereda żeby udał się na serwer pomocy `discord.py` (discord.gg/dpy) ale i tak kończyło się to 10 pingami i publikowaniem ogłoszeń na serwerze dribble o treści mesik się opierdala.
 W pewnym momencie zwłaszcza po ogłoszeniu przez discorda nowych zmian dotyczących intentów i zawartości wiadomości nie widziałem już żadnego sensu w kontynuowaniu tego "rewrite".
-Kontakt z Poweredem się ukrwał aż do czasu... Doszło do konfrontacji w której między innymi usłyszałem że nic dla Dribble nie zrobiłem. Powered zachował się jak hipokryta który nie szanuje pracy innych.
+Kontakt z Poweredem się ukrywał aż do czasu... Doszło do konfrontacji w której między innymi usłyszałem że nic dla Dribble nie zrobiłem. Powered zachował się jak hipokryta który nie szanuje pracy innych.
 
 
 Powered... Lubisz krytykować innych i narzekać tak? Może ocenimy troche twoje wypociny
